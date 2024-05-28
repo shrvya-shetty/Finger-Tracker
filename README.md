@@ -19,7 +19,7 @@ Track the movement of the index finger in real-time using a webcam. This project
 
 - Real-time index finger tracking.
 - Visualization of hand landmarks on the video feed.
-- Simple and intuitive usage.
+
 
 ## Contributing
 
